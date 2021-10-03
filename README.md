@@ -21,7 +21,7 @@ I created two buttons named start and stop which starts,moves and stops the ship
 ### Ringtone Link:
 https://d6cp9b00-a.akamaihd.net/downloads/ringtones/files/mp3/pirates-jack-bgm-47922.mp3
 
-###Hosted Link (Github) :
+### Hosted Link (Github) :
+https://akash-rajmane.github.io/voyage-animation/
 
-
-###Hosted Link (Netlify) :
+### Hosted Link (Netlify) :
