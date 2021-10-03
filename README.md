@@ -25,3 +25,4 @@ https://d6cp9b00-a.akamaihd.net/downloads/ringtones/files/mp3/pirates-jack-bgm-4
 https://akash-rajmane.github.io/voyage-animation/
 
 ### Hosted Link (Netlify) :
+https://quizzical-hamilton-e0decb.netlify.app
