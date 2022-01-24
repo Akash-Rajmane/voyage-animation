@@ -3,10 +3,10 @@
 ### About:
 This is a simple animation that includes a bird, a ship and a nice-looking background. The background consists of the sky with bright shining sun and deep blue sea. The bird flies in the sky. The ship is operated on the click of the button. Also on the click of button the pirates of the caribbean ringtone plays.   
 
-### This is the ship:
+### Ship:
 ![alt text](https://github.com/Akash-Rajmane/voyage-animation/blob/main/ship1.png?raw=true)
 
-### This is the bird:
+### Bird:
 ![alt text](https://github.com/Akash-Rajmane/voyage-animation/blob/main/bird.png?raw=true)
 
 ### This is the scene of animation:
